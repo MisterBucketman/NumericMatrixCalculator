@@ -1,0 +1,10 @@
+matrixprocessor\MultiplyByConstant.class
+matrixprocessor\Determinant.class
+matrixprocessor\Operation.class
+matrixprocessor\Multiply.class
+matrixprocessor\Sum.class
+matrixprocessor\Main.class
+matrixprocessor\Client.class
+matrixprocessor\Inversion.class
+matrixprocessor\Transposition.class
+matrixprocessor\Matrix.class
